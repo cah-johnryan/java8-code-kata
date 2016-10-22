@@ -83,3 +83,15 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+collection-interfaces/build/dependency-cache/
+collection-interfaces/build/tmp/compileTestJava/
+collection-interfaces/src/main/
+collection-interfaces/src/test/resources/
+common-test-tool/build/dependency-cache/
+common-test-tool/build/tmp/compileJava/
+common-test-tool/src/main/resources/
+common-test-tool/src/test/java/
+date-and-time-api/src/main/
+date-and-time-api/src/test/resources/
+stream-api/src/main/
+stream-api/src/test/resources/
