@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="164c0f69-46e9-4bb7-9792-63f2988e770d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" afterPath="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise2Test.java" afterPath="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise2Test.java" />
     </list>
     <ignored path="java8-code-kata.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,54 +45,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exercise1Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java">
+      <file leaf-file-name="Exercise2Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="106" column="69" selection-start-line="106" selection-start-column="69" selection-end-line="106" selection-end-column="69" />
+            <state relative-caret-position="267">
+              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Comparator.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Map.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1063">
-              <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Collection.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="408" column="28" selection-start-line="408" selection-start-column="20" selection-end-line="408" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OnlineShoppingMall.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common-test-tool/src/main/java/common/test/tool/entity/OnlineShoppingMall.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-              <folding>
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common-test-tool/src/main/java/common/test/tool/entity/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="384">
+              <caret line="585" column="14" selection-start-line="585" selection-start-column="14" selection-end-line="585" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -955,6 +922,7 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" />
+        <option value="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise2Test.java" />
       </list>
     </option>
   </component>
@@ -1051,6 +1019,58 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java8-code-kata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java8-code-kata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collection-interfaces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interfaces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java8-code-kata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java8-code-kata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collection-interfaces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -1068,111 +1088,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager" selected="JUnit.Exercise1Test.createParallelStream">
-    <configuration default="false" name="Exercise1Test.whoHaveNoEInYourName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="collection.interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="collection-interfaces_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="collection.interfaces" />
-      <option name="MAIN_CLASS_NAME" value="collection.interfaces.Exercise1Test" />
-      <option name="METHOD_NAME" value="whoHaveNoEInYourName" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collection-interfaces" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="Exercise1Test.replaceTheElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="collection.interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="collection-interfaces_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="collection.interfaces" />
-      <option name="MAIN_CLASS_NAME" value="collection.interfaces.Exercise1Test" />
-      <option name="METHOD_NAME" value="replaceTheElements" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collection-interfaces" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="Exercise1Test.sortByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="collection.interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="collection-interfaces_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="collection.interfaces" />
-      <option name="MAIN_CLASS_NAME" value="collection.interfaces.Exercise1Test" />
-      <option name="METHOD_NAME" value="sortByName" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collection-interfaces" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="Exercise1Test.createStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="collection.interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="collection-interfaces_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="collection.interfaces" />
-      <option name="MAIN_CLASS_NAME" value="collection.interfaces.Exercise1Test" />
-      <option name="METHOD_NAME" value="createStream" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collection-interfaces" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.Exercise2Test.ignoringAbsentKeys">
     <configuration default="false" name="Exercise1Test.createParallelStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1186,6 +1102,110 @@
       <option name="PACKAGE_NAME" value="collection.interfaces" />
       <option name="MAIN_CLASS_NAME" value="collection.interfaces.Exercise1Test" />
       <option name="METHOD_NAME" value="createParallelStream" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collection-interfaces" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exercise2Test.getDefaultValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="collection.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="collection-interfaces_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="collection.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="collection.interfaces.Exercise2Test" />
+      <option name="METHOD_NAME" value="getDefaultValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collection-interfaces" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exercise2Test.putIfNotExisting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="collection.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="collection-interfaces_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="collection.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="collection.interfaces.Exercise2Test" />
+      <option name="METHOD_NAME" value="putIfNotExisting" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collection-interfaces" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exercise2Test.mergeValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="collection.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="collection-interfaces_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="collection.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="collection.interfaces.Exercise2Test" />
+      <option name="METHOD_NAME" value="mergeValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collection-interfaces" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exercise2Test.ignoringAbsentKeys" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="collection.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="collection-interfaces_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="collection.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="collection.interfaces.Exercise2Test" />
+      <option name="METHOD_NAME" value="ignoringAbsentKeys" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1610,19 +1630,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Exercise1Test.whoHaveNoEInYourName" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Exercise1Test.replaceTheElements" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Exercise1Test.sortByName" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Exercise1Test.createStream" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Exercise1Test.createParallelStream" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Exercise1Test.createParallelStream" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Exercise2Test.getDefaultValue" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Exercise2Test.putIfNotExisting" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Exercise2Test.mergeValues" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Exercise2Test.ignoringAbsentKeys" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Exercise1Test.createParallelStream" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Exercise1Test.createStream" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Exercise1Test.sortByName" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.Exercise1Test.replaceTheElements" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Exercise1Test.whoHaveNoEInYourName" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Exercise2Test.ignoringAbsentKeys" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Exercise2Test.mergeValues" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Exercise2Test.putIfNotExisting" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Exercise2Test.getDefaultValue" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Exercise1Test.createParallelStream" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -1649,38 +1669,44 @@
       <option name="presentableId" value="Default" />
       <updated>1477161272391</updated>
       <workItem from="1477161277303" duration="225000" />
-      <workItem from="1477161516675" duration="738000" />
+      <workItem from="1477161516675" duration="1746000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Exercise1Test_createStream - 2016.10.22 at 14h 50m 33s.xml">
-      <configuration name="Exercise1Test.createStream" configurationId="JUnit" />
+    <history-entry file="Exercise2Test_ignoringAbsentKeys - 2016.10.22 at 15h 05m 17s.xml">
+      <configuration name="Exercise2Test.ignoringAbsentKeys" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise1Test_iterateByForEach - 2016.10.22 at 14h 36m 51s.xml">
-      <configuration name="Exercise1Test.iterateByForEach" configurationId="JUnit" />
+    <history-entry file="Exercise2Test_ignoringAbsentKeys - 2016.10.22 at 15h 05m 46s.xml">
+      <configuration name="Exercise2Test.ignoringAbsentKeys" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise1Test_replaceTheElements - 2016.10.22 at 14h 42m 45s.xml">
-      <configuration name="Exercise1Test.replaceTheElements" configurationId="JUnit" />
+    <history-entry file="Exercise2Test_ignoringAbsentKeys - 2016.10.22 at 15h 05m 59s.xml">
+      <configuration name="Exercise2Test.ignoringAbsentKeys" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise1Test_replaceTheElements - 2016.10.22 at 14h 42m 55s.xml">
-      <configuration name="Exercise1Test.replaceTheElements" configurationId="JUnit" />
+    <history-entry file="Exercise2Test_ignoringAbsentKeys - 2016.10.22 at 15h 06m 12s.xml">
+      <configuration name="Exercise2Test.ignoringAbsentKeys" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise1Test_sortByName - 2016.10.22 at 14h 47m 22s.xml">
-      <configuration name="Exercise1Test.sortByName" configurationId="JUnit" />
+    <history-entry file="Exercise2Test_ignoringAbsentKeys - 2016.10.22 at 15h 07m 12s.xml">
+      <configuration name="Exercise2Test.ignoringAbsentKeys" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise1Test_sortByName - 2016.10.22 at 14h 47m 43s.xml">
-      <configuration name="Exercise1Test.sortByName" configurationId="JUnit" />
+    <history-entry file="Exercise2Test_ignoringAbsentKeys - 2016.10.22 at 15h 07m 32s.xml">
+      <configuration name="Exercise2Test.ignoringAbsentKeys" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise1Test_sortByName - 2016.10.22 at 14h 49m 21s.xml">
-      <configuration name="Exercise1Test.sortByName" configurationId="JUnit" />
+    <history-entry file="Exercise2Test_ignoringAbsentKeys - 2016.10.22 at 15h 07m 37s.xml">
+      <configuration name="Exercise2Test.ignoringAbsentKeys" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercise1Test_whoHaveNoEInYourName - 2016.10.22 at 14h 41m 24s.xml">
-      <configuration name="Exercise1Test.whoHaveNoEInYourName" configurationId="JUnit" />
+    <history-entry file="Exercise2Test_mergeValues - 2016.10.22 at 15h 03m 04s.xml">
+      <configuration name="Exercise2Test.mergeValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise2Test_putIfNotExisting - 2016.10.22 at 14h 58m 41s.xml">
+      <configuration name="Exercise2Test.putIfNotExisting" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise2Test_putIfNotExisting - 2016.10.22 at 14h 59m 21s.xml">
+      <configuration name="Exercise2Test.putIfNotExisting" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="963000" />
+    <option name="totallyTimeSpent" value="1971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="6" />
@@ -1693,13 +1719,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1712,7 +1739,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1758,8 +1784,8 @@
         <state relative-caret-position="120">
           <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="false" />
+            <element signature="e#728#729#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1785,8 +1811,8 @@
         <state relative-caret-position="120">
           <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="false" />
+            <element signature="e#728#729#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1825,8 +1851,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="489">
           <caret line="106" column="69" selection-start-line="106" selection-start-column="69" selection-end-line="106" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="585" column="14" selection-start-line="585" selection-start-column="14" selection-end-line="585" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>
