@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/collection-interfaces/collection-interfaces.iml" filepath="$PROJECT_DIR$/.idea/modules/collection-interfaces/collection-interfaces.iml" group="collection-interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/collection-interfaces/collection-interfaces_main.iml" filepath="$PROJECT_DIR$/.idea/modules/collection-interfaces/collection-interfaces_main.iml" group="collection-interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/collection-interfaces/collection-interfaces_test.iml" filepath="$PROJECT_DIR$/.idea/modules/collection-interfaces/collection-interfaces_test.iml" group="collection-interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-test-tool/common-test-tool.iml" filepath="$PROJECT_DIR$/.idea/modules/common-test-tool/common-test-tool.iml" group="common-test-tool" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-test-tool/common-test-tool_main.iml" filepath="$PROJECT_DIR$/.idea/modules/common-test-tool/common-test-tool_main.iml" group="common-test-tool" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-test-tool/common-test-tool_test.iml" filepath="$PROJECT_DIR$/.idea/modules/common-test-tool/common-test-tool_test.iml" group="common-test-tool" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/date-and-time-api/date-and-time-api.iml" filepath="$PROJECT_DIR$/.idea/modules/date-and-time-api/date-and-time-api.iml" group="date-and-time-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/date-and-time-api/date-and-time-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/date-and-time-api/date-and-time-api_main.iml" group="date-and-time-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/date-and-time-api/date-and-time-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/date-and-time-api/date-and-time-api_test.iml" group="date-and-time-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8-code-kata.iml" filepath="$PROJECT_DIR$/.idea/modules/java8-code-kata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stream-api/stream-api.iml" filepath="$PROJECT_DIR$/.idea/modules/stream-api/stream-api.iml" group="stream-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stream-api/stream-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stream-api/stream-api_main.iml" group="stream-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stream-api/stream-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stream-api/stream-api_test.iml" group="stream-api" />
+    </modules>
+  </component>
+</project>
